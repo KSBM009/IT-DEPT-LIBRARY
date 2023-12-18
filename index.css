@@ -45,3 +45,55 @@
     position: absolute;
     left:20px; 
 }
+.pg1{
+    display: grid;
+    width: 175.906px;
+    height:53.974px;
+    margin-top: 100px;
+    margin-left: 4px;
+    padding-top: 5px;
+    padding-left: 10px;
+    border-radius: 30px;
+    background-color:white;
+    transform: rotate(0.1deg);
+    filter: drop-shadow(0px 5px 4px rgba(0, 0, 0, 0.50));
+
+
+}
+.h5{
+    grid-column: 2 ;
+    grid-row: 1 ;
+    color: #565656;
+    font-family: Sarpanch;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 145%; /* 23.2px */
+    letter-spacing: 3.04px;
+    position: relative;
+    top: -10px;
+}
+
+.pg2{
+    display: grid;
+    width: 175.906px;
+    height:53.974px;
+    padding-top: 60px;
+    padding-left: 20px;
+    border-radius: 30px;
+}
+
+.h5-2{
+    grid-column: 2 ;
+    grid-row: 1 ;
+    color: #565656;
+    font-family: Sarpanch;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 145%; /* 23.2px */
+    letter-spacing: 3.04px;
+    position: relative;
+    top: -24px;
+    
+}
